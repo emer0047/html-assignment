@@ -1,0 +1,46 @@
+/*my awesome css it is cool and good*/
+body {
+    
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 18px;
+
+}
+
+header, footer {
+    background-color: blanchedalmond;
+}
+
+.site-title {
+    color:darkorchid;
+}
+
+#my-image {
+    box-shadow: 0px 0px 2px 1px black;
+}
+
+.hb {
+    list-style-type: square;
+}
+
+.hb li:nth-child(odd) {
+    background: rgb(249, 145, 221);
+    
+}
+
+nav li {
+    list-style: none;
+    background: steelblue;
+    border-style: outset;
+}
+
+nav li:hover {
+    background: black;
+}
+
+nav li:focus {
+    background:rgb(249, 145, 221);
+}
+a.nou {
+    text-decoration: none;
+}
+
